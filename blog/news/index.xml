@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>网站新闻 on XZH</title>
+    <link>https://snpcp.github.io/blog/news/</link>
+    <description>Recent content in 网站新闻 on XZH</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://snpcp.github.io/blog/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客成立</title>
+      <link>https://snpcp.github.io/blog/news/create/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://snpcp.github.io/blog/news/create/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://snpcp.github.io/blog/news/create/h.png&#34; alt=&#34;一张假配图&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

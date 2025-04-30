@@ -1,2 +1,0 @@
-# snpcp.github.io
-page
